@@ -11,7 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 
 # Kirill Petrov
+
 ## Contact information
+![Contact GIF](enternum.gif)
 - Phone: ```+380 096 090 5928```
 - E-mail: ```kkpetrov.dev@gmail.com```
 - Telegram: [@kk_ppetrov](https://t.me/kk_ppetrov/)
@@ -32,6 +34,14 @@ You can click the Preview link to take a look at your changes.
 - __Editors:__
   - __VS Code, Sublime Text__
   - *Visual Studio, PyCharm, WebStorm, Atom*
+
+## Courses
+- «HTML Fundamentals» on the [SoloLearn](sololearn.com) *(completed)*<br>
+![HTML Fundamentals Course Certificate](certificate.jpg)
+- «Веб-разработка для начинающих: HTML и CSS» on the [Stepik](stepik.org) *(completed)*<br>
+![Stepik HTML and CSS Course Certificate](stepikcertificate.jpg)
+- «Python Core» on the [SoloLearn](sololearn.com) *(in progress)*
+- «Полное руководство по Python3» on the [Udemy](udemy.com) *(in progress)*
 
 ## Languages
 - __Ukrainian *(Native language)*__
