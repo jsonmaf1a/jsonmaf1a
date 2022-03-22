@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # [Kirill Petrov](https://kkk-petrov.github.io/links/)
-
+[![wakatime](https://wakatime.com/badge/user/2c23a4bd-db65-472a-b556-f2962f0d4406.svg)](https://wakatime.com/@2c23a4bd-db65-472a-b556-f2962f0d4406)
 ## Contact information
 <img src="enternum.gif" style="max-width: 500px;"></img>
 - Phone: ```+380 096 090 5928```
