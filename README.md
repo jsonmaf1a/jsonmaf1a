@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Kirill Petrov
+# [Kirill Petrov](kkk-petrov.github.io/links/)
 
 ## Contact information
 ![Contact GIF](enternum.gif)
@@ -42,6 +42,11 @@ You can click the Preview link to take a look at your changes.
 ![Stepik HTML and CSS Course Certificate](stepikcertificate.jpg)
 - «Python Core» on the [SoloLearn](sololearn.com) *(in progress)*
 - «Полное руководство по Python3» on the [Udemy](udemy.com) *(in progress)*
+
+## Hobby
+- __Making music__
+- __Reading__
+- __Coding__
 
 ## Languages
 - __Ukrainian *(Native language)*__
