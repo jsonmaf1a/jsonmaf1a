@@ -52,5 +52,5 @@ You can click the Preview link to take a look at your changes.
 - __Ukrainian *(Native language)*__
 - __Russian *(Advanced)*__
 - __English *(A2/B1, Intermediate)*__<br>
-![EF SET Certificate](efset-certificate.jpg)
+<!-- ![EF SET Certificate](efset-certificate.jpg) -->
 - __Czech *(Basic knowledge)*__
