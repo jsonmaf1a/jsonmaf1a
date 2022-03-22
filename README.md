@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# [Kirill Petrov](kkk-petrov.github.io/links/)
+# [Kirill Petrov](https://kkk-petrov.github.io/links/)
 
 ## Contact information
-![Contact GIF](enternum.gif)
-<!-- - Phone: ```+380 096 090 5928``` -->
+<img src="enternum.gif" style="max-width: 500px;"></img>
+- Phone: ```+380 096 090 5928```
 - E-mail: ```kkpetrov.dev@gmail.com```
 - Telegram: [@kk_ppetrov](https://t.me/kk_ppetrov/)
 - LinkedIn: [Kirill Petrov](https://www.linkedin.com/in/kirill-petrov-5a72b622b/)
@@ -36,12 +36,12 @@ You can click the Preview link to take a look at your changes.
   - *Visual Studio, PyCharm, WebStorm, Atom*
 
 ## Courses
-- «HTML Fundamentals» on the [SoloLearn](sololearn.com) *(completed)*<br>
+>- «HTML Fundamentals» on the [SoloLearn](sololearn.com) *(completed)*<br>
 ![HTML Fundamentals Course Certificate](certificate.jpg)
-- «Веб-разработка для начинающих: HTML и CSS» on the [Stepik](stepik.org) *(completed)*<br>
+>- «Веб-разработка для начинающих: HTML и CSS» on the [Stepik](stepik.org) *(completed)*<br>
 ![Stepik HTML and CSS Course Certificate](stepikcertificate.jpg)
-- «Python Core» on the [SoloLearn](sololearn.com) *(in progress)*
-- «Полное руководство по Python3» on the [Udemy](udemy.com) *(in progress)*
+>- «Python Core» on the [SoloLearn](sololearn.com) *(in progress)*
+>- «Полное руководство по Python3» on the [Udemy](udemy.com) *(in progress)*
 
 ## Hobby
 - __Making music__
@@ -51,6 +51,6 @@ You can click the Preview link to take a look at your changes.
 ## Languages
 - __Ukrainian *(Native language)*__
 - __Russian *(Advanced)*__
-- __English *(A2/B1, Intermediate)*__<br>
-<!-- ![EF SET Certificate](efset-certificate.jpg) -->
+- __English *(A2/B1, Intermediate)*__
 - __Czech *(Basic knowledge)*__
+<!-- ![EF SET Certificate](efset-certificate.jpg) -->
