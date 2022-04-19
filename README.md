@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - Telegram: [@kk_ppetrov](https://t.me/kk_ppetrov/)
 - LinkedIn: [Kirill Petrov](https://www.linkedin.com/in/kirill-petrov-5a72b622b/)
 
-## __Currently studying React.js__
+## 
 ## Skills
 - __HTML__
 - __CSS (Bootstrap, BEM)__
@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
 - __Editors:__
   - __VS Code, Sublime Text__
   - *Visual Studio, PyCharm, WebStorm, Atom*
+- __Currently studying React.js__
 
 ## Courses
 >- «HTML Fundamentals» on the [SoloLearn](sololearn.com) *(completed)*<br>
