@@ -7,7 +7,11 @@
 <!---
 kkk-petrov/kkk-petrov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
+<!-- ![EF SET Certificate](efset-certificate.jpg) -->
+<!-- - __Editors:__
+  - __VS Code, Sublime Text__
+  - *Visual Studio, PyCharm, WebStorm, Atom* -->
 
 
 # [Kirill Petrov](https://kkk-petrov.github.io/links/)
@@ -30,11 +34,8 @@ You can click the Preview link to take a look at your changes.
   - *C# Basics*
   - *C++ Basics* 
   - *SQL Basics*
+- __I`m currently learning React.js__
 - __Figma, Adobe XD, Adobe Photoshop__
-- __Editors:__
-  - __VS Code, Sublime Text__
-  - *Visual Studio, PyCharm, WebStorm, Atom*
-- __Currently studying React.js__
 
 ## Courses
 >- «HTML Fundamentals» on the [SoloLearn](sololearn.com) *(completed)*<br>
@@ -54,4 +55,4 @@ You can click the Preview link to take a look at your changes.
 - __Russian *(Advanced)*__
 - __English *(A2/B1, Intermediate)*__
 - __Czech *(Basic knowledge)*__
-<!-- ![EF SET Certificate](efset-certificate.jpg) -->
+
