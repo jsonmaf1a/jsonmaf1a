@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 - LinkedIn: [Kirill Petrov](https://www.linkedin.com/in/kirill-petrov-5a72b622b/)
 
 ## About
-> Junior Frontend Developer from Ukraine. I am currently studying to be a software engineer in college. Website development for me is both a job and a hobby, but at the same time I treat my work responsibly, I fulfill it strictly on time. I can design responsive websites with HMTL and CSS and I can work with Bootstrap. I know JavaScript at a basic level and currently I am learning React.js.
+> Junior Frontend Developer from Ukraine. I am currently studying to be a software engineer in college. Website development for me is both a job and a hobby, but at the same time I treat my work responsibly, I fulfill it strictly on time. I can develop responsive websites with HTML and CSS, also I can work with Bootstrap. I know JavaScript at a basic level and currently I am learning React.js.
 
 ## Skills
 - __HTML__
