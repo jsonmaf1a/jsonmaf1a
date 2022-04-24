@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
               
 
 ## About
-> Junior Frontend Developer from Ukraine. I am currently studying to be a software engineer in college. Website development for me is both a job and a hobby, but at the same time I treat my work responsibly, I fulfill it strictly on time. I can develop responsive websites with HTML and CSS, also I can work with Bootstrap. I know JavaScript at a basic level and currently I am learning React.js.
+__Junior Frontend developer__ from Ukraine. I am currently studying to be a software engineer in college. Website development for me is both a job and a hobby, but at the same time I take my work responsibly and do it strictly on time. I can create responsive websites with _HTML_ and _CSS_ , also I can work with _Bootstrap_.I have basic knowledge of _JavaScript_ and i am learning _React.js_ right now.
 
 ## Skills
 - __HTML__
