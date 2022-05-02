@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - Phone: ```+380 096 090 5928```
 - E-mail: ```kkpetrov.dev@gmail.com```
 - Telegram: [@kk_ppetrov](https://t.me/kk_ppetrov/)
-- LinkedIn: [Kirill Petrov](www.linkedin.com/in/kkpetrov)
+- LinkedIn: [Kirill Petrov](https://www.linkedin.com/in/kkpetrov)
               
 
 ## About
