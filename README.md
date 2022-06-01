@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
 [![wakatime](https://wakatime.com/badge/user/2c23a4bd-db65-472a-b556-f2962f0d4406.svg)](https://wakatime.com/@2c23a4bd-db65-472a-b556-f2962f0d4406)
 ## Contact information
 <img src="enternum.gif" style="max-width: 500px;"></img>
-- Phone: ```+380 096 090 5928```
 - E-mail: ```kkpetrov.dev@gmail.com```
 - Telegram: [@kk_ppetrov](https://t.me/kk_ppetrov/)
 - LinkedIn: [Kirill Petrov](https://www.linkedin.com/in/kkpetrov)
@@ -29,16 +28,15 @@ You can click the Preview link to take a look at your changes.
 __Junior Frontend developer__ from Ukraine. I am currently studying to be a software engineer in college. Website development for me is both a job and a hobby, but at the same time I take my work responsibly and do it strictly on time. I can create responsive websites with _HTML_ and _CSS_ , also I can work with _Bootstrap_.I have basic knowledge of _JavaScript_ and i am learning _React.js_ right now.
 
 ## Skills
-- __HTML__
-- __CSS (Bootstrap, BEM)__
+- __HTML + CSS__
 - __Programming languages:__
   - __Python__
   - *JavaScript Basics*
+  - - *React.js Basics*
   - *PHP Basics*
   - *C# Basics*
   - *C++ Basics* 
   - *SQL Basics*
-- __I`m currently learning React.js__
 - __Figma, Adobe XD, Adobe Photoshop__
 
 ## Courses
