@@ -25,7 +25,11 @@ You can click the Preview link to take a look at your changes.
               
 
 ## About
-__Junior Frontend developer__ from Ukraine. I am currently studying to be a software engineer in college. Website development for me is both a job and a hobby, but at the same time I take my work responsibly and do it strictly on time. I can create responsive websites with _HTML_ and _CSS_ , also I can work with _Bootstrap_.I have basic knowledge of _JavaScript_ and i am learning _React.js_ right now.
+:floppy_disk: Hi there, I'm Kirill. I am a __Junior Frontend developer__ from Ukraine.I am currently studying to be a software engineer in college.
+Website development for me is both a job and a hobby, but at the same time I take my work responsibly and do it strictly on time.<br>
+:computer: I can create responsive websites with _HTML_ and _CSS_ , also I can work with _Bootstrap_. I am learning _React.js_ right now.
+
+:keyboard: I'm currently working on a [IPhub](kkk-petrov.github.io/iphub/)
 
 ## Skills
 - __HTML + CSS__
