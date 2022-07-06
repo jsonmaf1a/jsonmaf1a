@@ -40,9 +40,9 @@ You can click the Preview link to take a look at your changes.
               
 
 ## About
-:floppy_disk: Hi there, I'm Kirill. I am a __Junior Frontend developer__ from Ukraine.I am currently studying to be a software engineer in college.
+:floppy_disk: Hi there, I'm Kirill. I am a __Junior Frontend developer__ from Ukraine. I am currently studying to be a software engineer in college.
 Website development for me is both a job and a hobby, but at the same time I take my work responsibly and do it strictly on time.<br>
-:computer: I can create responsive websites with _HTML_ and _CSS_ , also I can work with _Bootstrap_. I am learning _React.js_ right now.
+:computer: I can create responsive websites with _HTML_ and _CSS_ and I am learning _React.js_ right now.
 
 :keyboard: I'm currently working on a __[IPhub](https://github.com/kkk-petrov/iphub)__
 
@@ -50,7 +50,6 @@ Website development for me is both a job and a hobby, but at the same time I tak
 - __HTML + CSS__
 - __JavaScript__
 - - *React.js Basics*
-- __Python__
 - __PHP *Basics*__
   
 ## Hobbies
