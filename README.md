@@ -48,10 +48,10 @@ Website development for me is both a job and a hobby, but at the same time I tak
 
 ## Skills
 - __HTML + CSS__
-  - __Python__
-  - *JavaScript*
-  - - *React.js Basics*
-  - *PHP Basics*
+- *JavaScript*
+- - *React.js Basics*
+- __Python__
+- *PHP Basics*
   
 ## Hobbies
 - __Making music__
