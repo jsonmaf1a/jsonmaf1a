@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
   - __VS Code, Sublime Text__
   - *Visual Studio, PyCharm, WebStorm, Atom* 
   
+<img src="https://c.tenor.com/tZ2Xd8LqAnMAAAAS/typing-fast.gif" width="600" ></img>
   
   
   
@@ -31,7 +32,6 @@ You can click the Preview link to take a look at your changes.
 # [Kirill Petrov](https://kkk-petrov.github.io/links/)
 [![wakatime](https://wakatime.com/badge/user/2c23a4bd-db65-472a-b556-f2962f0d4406.svg?style=flat)](https://wakatime.com/@2c23a4bd-db65-472a-b556-f2962f0d4406)
 ![codewars](https://www.codewars.com/users/kkk-petrov/badges/small)<br>
-<img src="https://c.tenor.com/tZ2Xd8LqAnMAAAAS/typing-fast.gif" width="600" ></img>
 
 ## Contact information
 - E-mail: ```kkpetrov.dev@gmail.com```
