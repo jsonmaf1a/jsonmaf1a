@@ -27,6 +27,11 @@ You can click the Preview link to take a look at your changes.
 - __English *(A2/B1, Intermediate)*__
 
   
+:floppy_disk: Hi there, I'm Kirill. I am a __Junior Frontend developer__ from Ukraine<br>
+:computer: I am learning _React.js_ right now<br>
+:keyboard: I'm currently working on a __[Signup & Login](https://github.com/kkk-petrov/signup-login)__
+
+
   
   
   ## Courses
@@ -69,8 +74,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/static/v1?label=&message=PHP&color=grey&style=flat&logo=php)
 ![](https://img.shields.io/static/v1?label=&message=Git&color=grey&style=flat&logo=git)
 
-
-
-:floppy_disk: Hi there, I'm Kirill. I am a __Junior Frontend developer__ from Ukraine<br>
-:computer: I am learning _React.js_ right now<br>
-:keyboard: I'm currently working on a __[Signup & Login](https://github.com/kkk-petrov/signup-login)__
+:floppy_disk: Hi, I'm Kirill and I am a Junior Frontend developer from Ukraine.<br>
+:computer: I'm currently learning _React.js_.<br>
+:keyboard: Now I'm working on a __[Signup & Login](https://github.com/kkk-petrov/signup-login)__.
