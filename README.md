@@ -13,44 +13,8 @@ You can click the Preview link to take a look at your changes.
 <!-- - __Editors:__
   - __VS Code, Sublime Text__
   - *Visual Studio, PyCharm, WebStorm, Atom* 
-  
+  Website development for me is both a job and a hobby, but at the same time I take my work responsibly and do it strictly on time.<br>
 <img src="https://c.tenor.com/tZ2Xd8LqAnMAAAAS/typing-fast.gif" width="600" ></img>
-  
-  
-  
-  
-  ## Courses
->- «HTML Fundamentals» on the [SoloLearn](sololearn.com) *(completed)*<br>
-![HTML Fundamentals Course Certificate](certificate.jpg)
->- «Веб-разработка для начинающих: HTML и CSS» on the [Stepik](stepik.org) *(completed)*<br>
-![Stepik HTML and CSS Course Certificate](stepikcertificate.jpg)
->- «Python Core» on the [SoloLearn](sololearn.com) *(in progress)*
->- «Полное руководство по Python3» on the [Udemy](udemy.com) *(in progress)*
-
-  -->
-
-# [Kirill Petrov](https://kkk-petrov.github.io/links/)
-[![wakatime](https://wakatime.com/badge/user/2c23a4bd-db65-472a-b556-f2962f0d4406.svg?style=flat)](https://wakatime.com/@2c23a4bd-db65-472a-b556-f2962f0d4406)
-![codewars](https://www.codewars.com/users/kkk-petrov/badges/small)<br>
-
-## Contact information
-- E-mail: ```kkpetrov.dev@gmail.com```
-- Telegram: [@kk_ppetrov](https://t.me/kk_ppetrov/)
-- LinkedIn: [Kirill Petrov](https://www.linkedin.com/in/kkpetrov)
-              
-
-## About
-:floppy_disk: Hi there, I'm Kirill. I am a __Junior Frontend developer__ from Ukraine. I am currently studying to be a software engineer in college.
-Website development for me is both a job and a hobby, but at the same time I take my work responsibly and do it strictly on time.<br>
-:computer: I can create responsive websites with _HTML_ and _CSS_ and I am learning _React.js_ right now.
-
-:keyboard: I'm currently working on a __[Signup & Login](https://github.com/kkk-petrov/signup-login)__
-
-## Skills
-- __HTML + CSS__
-- __JavaScript__
-- - *React.js Basics*
-- __PHP *Basics*__
   
 ## Hobbies
 - __Making music__
@@ -62,3 +26,51 @@ Website development for me is both a job and a hobby, but at the same time I tak
 - __Russian *(Advanced)*__
 - __English *(A2/B1, Intermediate)*__
 
+  
+  
+  
+  ## Courses
+>- «HTML Fundamentals» on the [SoloLearn](sololearn.com) *(completed)*<br>
+![HTML Fundamentals Course Certificate](certificate.jpg)
+>- «Веб-разработка для начинающих: HTML и CSS» on the [Stepik](stepik.org) *(completed)*<br>
+![Stepik HTML and CSS Course Certificate](stepikcertificate.jpg)
+>- «Python Core» on the [SoloLearn](sololearn.com) *(in progress)*
+>- «Полное руководство по Python3» on the [Udemy](udemy.com) *(in progress)*
+
+## Contact information
+- E-mail: ```kkpetrov.dev@gmail.com```
+- Telegram: [@kk_ppetrov](https://t.me/kk_ppetrov/)
+- LinkedIn: [Kirill Petrov](https://www.linkedin.com/in/kkpetrov)
+# [Kirill Petrov](https://github.com/kkk-petrov)
+## About
+
+## Skills
+
+
+- __HTML + CSS__
+- __JavaScript__
+- - *React.js Basics*
+- __PHP *Basics*__
+
+![codewars](https://www.codewars.com/users/kkk-petrov/badges/micro)
+
+  -->
+
+[![wakatime](https://wakatime.com/badge/user/2c23a4bd-db65-472a-b556-f2962f0d4406.svg?style=flat)](https://wakatime.com/@2c23a4bd-db65-472a-b556-f2962f0d4406)
+[![telegram](https://img.shields.io/static/v1?label=&message=TELEGRAM&color=blue&style=flat&logo=telegram)](https://t.me/kk_ppetrov/) 
+[![telegram](https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=flat&logo=linkedin)](https://www.linkedin.com/in/kkpetrov)<br>
+![](https://img.shields.io/static/v1?label=&message=HTML&color=grey&style=flat&logo=html5)
+![](https://img.shields.io/static/v1?label=&message=CSS&color=grey&style=flat&logo=css3)
+![](https://img.shields.io/static/v1?label=&message=Bootstrap&color=grey&style=flat&logo=bootstrap)
+![](https://img.shields.io/static/v1?label=&message=Tailwind&color=grey&style=flat&logo=tailwindcss)
+![](https://img.shields.io/static/v1?label=&message=JavaScript&color=grey&style=flat&logo=javascript)
+![](https://img.shields.io/static/v1?label=&message=TypeScript&color=grey&style=flat&logo=typescript)
+![](https://img.shields.io/static/v1?label=&message=React&color=grey&style=flat&logo=react)
+![](https://img.shields.io/static/v1?label=&message=PHP&color=grey&style=flat&logo=php)
+![](https://img.shields.io/static/v1?label=&message=Git&color=grey&style=flat&logo=git)
+
+
+
+:floppy_disk: Hi there, I'm Kirill. I am a __Junior Frontend developer__ from Ukraine. I am currently studying to be a software engineer in college.<br>
+:computer: I can create responsive websites with _HTML_ and _CSS_ and I am learning _React.js_ right now.<br>
+:keyboard: I'm currently working on a __[Signup & Login](https://github.com/kkk-petrov/signup-login)__
