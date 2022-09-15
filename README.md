@@ -71,6 +71,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-:floppy_disk: Hi there, I'm Kirill. I am a __Junior Frontend developer__ from Ukraine. I am currently studying to be a software engineer in college.<br>
-:computer: I can create responsive websites with _HTML_ and _CSS_ and I am learning _React.js_ right now.<br>
+:floppy_disk: Hi there, I'm Kirill. I am a __Junior Frontend developer__ from Ukraine<br>
+:computer: I am learning _React.js_ right now<br>
 :keyboard: I'm currently working on a __[Signup & Login](https://github.com/kkk-petrov/signup-login)__
