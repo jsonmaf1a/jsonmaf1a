@@ -76,4 +76,4 @@ You can click the Preview link to take a look at your changes.
 
 :floppy_disk: Hi, I'm Kirill and I am a Junior Frontend developer from Ukraine.<br>
 :computer: I'm currently learning _React.js_.<br>
-:keyboard: Now I'm working on a __[Signup & Login](https://github.com/kkk-petrov/signup-login)__.
+:keyboard: Now I'm working on a __[Loft Furniture](https://github.com/kkk-petrov/loft-furniture)__.
