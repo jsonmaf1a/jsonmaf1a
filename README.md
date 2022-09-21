@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 ![codewars](https://www.codewars.com/users/kkk-petrov/badges/micro)
 
   -->
-
+![](https://www.codewars.com/users/kkk-petrov/badges/small)<br>
 [![wakatime](https://wakatime.com/badge/user/2c23a4bd-db65-472a-b556-f2962f0d4406.svg?style=flat)](https://wakatime.com/@2c23a4bd-db65-472a-b556-f2962f0d4406)
 [![telegram](https://img.shields.io/static/v1?label=&message=TELEGRAM&color=blue&style=flat&logo=telegram)](https://t.me/kk_ppetrov/) 
 [![telegram](https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=flat&logo=linkedin)](https://www.linkedin.com/in/kkpetrov)<br>
