@@ -60,10 +60,11 @@ You can click the Preview link to take a look at your changes.
 ![codewars](https://www.codewars.com/users/kkk-petrov/badges/micro)
 
   -->
-![](https://www.codewars.com/users/kkk-petrov/badges/small)<br>
 [![wakatime](https://wakatime.com/badge/user/2c23a4bd-db65-472a-b556-f2962f0d4406.svg?style=flat)](https://wakatime.com/@2c23a4bd-db65-472a-b556-f2962f0d4406)
 [![telegram](https://img.shields.io/static/v1?label=&message=TELEGRAM&color=blue&style=flat&logo=telegram)](https://t.me/kk_ppetrov/) 
-[![telegram](https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=flat&logo=linkedin)](https://www.linkedin.com/in/kkpetrov)<br>
+[![telegram](https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=flat&logo=linkedin)](https://www.linkedin.com/in/kkpetrov)
+![](https://www.codewars.com/users/kkk-petrov/badges/micro)
+<br>
 ![](https://img.shields.io/static/v1?label=&message=HTML&color=grey&style=flat&logo=html5)
 ![](https://img.shields.io/static/v1?label=&message=CSS&color=grey&style=flat&logo=css3)
 ![](https://img.shields.io/static/v1?label=&message=Bootstrap&color=grey&style=flat&logo=bootstrap)
@@ -76,4 +77,6 @@ You can click the Preview link to take a look at your changes.
 
 :floppy_disk: Hi, I'm Kirill and I am a Junior Frontend developer from Ukraine.<br>
 :computer: I'm currently learning _React.js_.<br>
-:keyboard: Now I'm working on a __[Loft Furniture](https://github.com/kkk-petrov/loft-furniture)__.
+:keyboard: Now I'm working on a __[Loft Furniture](https://github.com/kkk-petrov/loft-furniture)__.<br>
+
+
