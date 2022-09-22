@@ -50,6 +50,8 @@ You can click the Preview link to take a look at your changes.
 ## About
 
 ## Skills
+![](https://img.shields.io/static/v1?label=&message=Tailwind&color=grey&style=flat&logo=tailwindcss)
+![](https://img.shields.io/static/v1?label=&message=Git&color=grey&style=flat&logo=git)
 
 
 - __HTML + CSS__
@@ -68,12 +70,10 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/static/v1?label=&message=HTML&color=grey&style=flat&logo=html5)
 ![](https://img.shields.io/static/v1?label=&message=CSS&color=grey&style=flat&logo=css3)
 ![](https://img.shields.io/static/v1?label=&message=Bootstrap&color=grey&style=flat&logo=bootstrap)
-![](https://img.shields.io/static/v1?label=&message=Tailwind&color=grey&style=flat&logo=tailwindcss)
 ![](https://img.shields.io/static/v1?label=&message=JavaScript&color=grey&style=flat&logo=javascript)
 ![](https://img.shields.io/static/v1?label=&message=TypeScript&color=grey&style=flat&logo=typescript)
 ![](https://img.shields.io/static/v1?label=&message=React&color=grey&style=flat&logo=react)
 ![](https://img.shields.io/static/v1?label=&message=PHP&color=grey&style=flat&logo=php)
-![](https://img.shields.io/static/v1?label=&message=Git&color=grey&style=flat&logo=git)
 
 :floppy_disk: Hi, I'm Kirill and I am a Junior Frontend developer from Ukraine.<br>
 :computer: I'm currently learning _React.js_.<br>
