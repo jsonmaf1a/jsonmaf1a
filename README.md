@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
   - *Visual Studio, PyCharm, WebStorm, Atom* 
   Website development for me is both a job and a hobby, but at the same time I take my work responsibly and do it strictly on time.<br>
 <img src="https://c.tenor.com/tZ2Xd8LqAnMAAAAS/typing-fast.gif" width="600" ></img>
-  
+  :keyboard: Now I'm working on a __[Loft Furniture](https://github.com/kkk-petrov/loft-furniture)__.
+
 ## Hobbies
 - __Making music__
 - __Reading__
@@ -77,6 +78,6 @@ You can click the Preview link to take a look at your changes.
 
 :floppy_disk: Hi, I'm Kirill and I am a Junior Frontend developer from Ukraine.<br>
 :computer: I'm currently learning _React.js_.<br>
-:keyboard: Now I'm working on a __[Loft Furniture](https://github.com/kkk-petrov/loft-furniture)__.<br>
+:keyboard: Now I'm working on a __[sup.ua](https://github.com/kkk-petrov/sup-ua)__.
 
 
