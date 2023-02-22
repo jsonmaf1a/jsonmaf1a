@@ -78,6 +78,6 @@ You can click the Preview link to take a look at your changes.
 
 :floppy_disk: Hi, I'm Kirill and I am a Junior Frontend developer from Ukraine.<br>
 :computer: I'm currently learning _React.js_.<br>
-:keyboard: Now I'm working on a __[sup.ua](https://github.com/kkk-petrov/sup-ua)__.
+:keyboard: Now I'm working on a __[Step](https://github.com/kkk-petrov/step-shoes)__.
 
 
