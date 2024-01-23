@@ -1,5 +1,4 @@
 <!--
-[![Stack](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nest,postgres,mongo)](https://skillicons.dev)
 [![wakatime](https://wakatime.com/badge/user/2c23a4bd-db65-472a-b556-f2962f0d4406.svg?style=flat)](https://wakatime.com/@2c23a4bd-db65-472a-b556-f2962f0d4406) 
 -->
-typescript enjoyer
+[![Stack](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nest,postgres,mongo)](https://skillicons.dev)
